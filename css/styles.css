@@ -18,6 +18,9 @@ body {
   border: 1px solid rgb(80, 80, 80);
   border-radius: 20px;
 }
+.user-info {
+  width: 160px;
+}
 .user-info__submit {
   cursor: pointer;
   height: 30px;
