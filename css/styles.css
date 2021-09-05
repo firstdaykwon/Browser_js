@@ -16,9 +16,12 @@ body {
   height: 25px;
   text-align: center;
   border: 1px solid rgb(80, 80, 80);
+  border-radius: 20px;
 }
 .user-info__submit {
   cursor: pointer;
+  height: 30px;
+  width: 60px;
 }
 .login-form,
 .greeting {
@@ -26,10 +29,6 @@ body {
   right: 1%;
   top: 1%;
   font-size: 20px;
-}
-.user-info {
-  background-color: auto;
-  border-radius: 20px;
 }
 .clock {
   font-size: 6rem;
@@ -108,6 +107,7 @@ button {
   background-color: whitesmoke;
   border: none;
   border-radius: 10px;
+  cursor: pointer;
 }
 li {
   margin-bottom: 5px;
