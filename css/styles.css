@@ -33,7 +33,7 @@ body {
 }
 .clock {
   font-size: 6rem;
-  margin: 17% 0 6% 0;
+  margin: 17% 0 10% 0;
 }
 .hidden {
   display: none;
@@ -53,6 +53,10 @@ body {
   top: 1%;
   animation: fadeIn 2s linear;
   font-size: 20px;
+}
+.todo-title {
+  font-size: 28px;
+  margin-bottom: 1%;
 }
 .todo-form input {
   margin-bottom: 10px;
